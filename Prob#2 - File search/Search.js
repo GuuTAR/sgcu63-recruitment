@@ -49,3 +49,4 @@ function search(fileToSearch, currentKey, filesObj, directory) {
         })
     } 
 }
+
