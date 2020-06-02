@@ -1,0 +1,3 @@
+D:\Chula Engineering\Other work\HTML\Rubnong\obj\Debug\Rubnong.njsprojAssemblyReference.cache
+D:\Chula Engineering\Other work\HTML\Rubnong\obj\Debug\Rubnong.njsproj.CoreCompileInputs.cache
+D:\Chula Engineering\Other work\HTML\Rubnong\bin\Microsoft.NodejsTools.WebRole.dll
