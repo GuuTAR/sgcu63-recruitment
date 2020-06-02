@@ -17,3 +17,4 @@
 	
 	- Terminal by use 'python Program.py' in this directory. 
 	- Use any IDLE that support Python
+	
